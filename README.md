@@ -1,6 +1,6 @@
 # 2401201207_Jyoti_Theroy1
 
-Banking Application – Java (OOP Project)
+## Banking Application – Java (OOP Project)
 
 This project is a simple Banking Application built using Core Java and Object-Oriented Programming.
 It includes the following features:
@@ -15,19 +15,19 @@ Update contact details
 
 Menu-driven interface
 
-🧩 Project Structure
+## 🧩 Project Structure
 Account.java
 UserInterface.java
 
-📸 Output & Screenshots
+## 📸 Output & Screenshots
 
 All the output screenshots are already uploaded above in the repository.
 
-🛠️ How to Run
+## 🛠️ How to Run
 javac Account.java UserInterface.java
 java UserInterface
 
-⭐ Concepts Used
+## ⭐ Concepts Used
 
 Classes & Objects
 
